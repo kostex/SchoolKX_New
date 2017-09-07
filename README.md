@@ -3,7 +3,7 @@
 Previously distributed via http://home.zonnet.nl/koelooptiemanna/graphics.html
 but those guys are gone..
 
-So now you can download them [here] (/Generated_Fonts/school.zip)
+So now you can download them [here](/Generated_Fonts/school.zip)
 
 Do whatever you want with the fonts, but don't make money off them!
 
