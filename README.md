@@ -7,7 +7,7 @@ So now you can download them [here](/Generated_Fonts/school.zip)
 
 Do whatever you want with the fonts, but don't make money off of them!
 
-# Take a good look at the font, there are several variations on some characters (w,v,y,x,a)
+# Take a good look at the font, there are several variations of some characters (w,v,y,x,a)
 
 Roel Koster
 
