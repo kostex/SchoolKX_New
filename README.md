@@ -5,7 +5,7 @@ but those guys are gone..
 
 So now you can download them [here](/Generated_Fonts/school.zip)
 
-Do whatever you want with the fonts, but don't make money off them!
+Do whatever you want with the fonts, but don't make money off of them!
 
 Roel Koster
 
