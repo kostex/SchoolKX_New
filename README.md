@@ -13,3 +13,7 @@ Roel Koster
 
 ![screenshot_1](/images/screenshot_1.jpg?raw=true "Screenshot_1")
 ![screenshot_2](/images/screenshot_2.jpg?raw=true "Screenshot_2")
+
+# Alternative font (for Boom Uitgevers, Amsterdam) (l,y,ij,4,Y)
+
+![screenshot_3](/images/screenshot_3.jpg?raw=true "Screenshot_3")
