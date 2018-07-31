@@ -15,12 +15,22 @@ Take a good look at them to see the differences.
 ![screenshot_1](/images/overzicht.jpg?raw=true "overview")
 
 # Please be aware that using these fonts in Microsoft Word and other word processors not supporting kerning the way they should, words will NOT have good spacing between letterpairs!
+wrong kerning:
 ![screenshot_2](/images/fout.jpg?raw=true "Wrong Kerning (MS Word)")
+
+correct kerning:
 ![screenshot_3](/images/goed.jpg?raw=true "Correct Kerning (Adobe Illustrator)")
 
 
 # Complete List of Glyphs
+Paula Regular
 ![screenshot_4](/images/paula_regular.jpg?raw=true "Paula Regular")
+
+Paula Expanded
 ![screenshot_5](/images/paula_expanded.jpg?raw=true "Paula Expanded")
+
+Haasnoot Regular
 ![screenshot_6](/images/haasnoot_regular.jpg?raw=true "Haasnoot Regular")
+
+Haasnoot Expanded
 ![screenshot_7](/images/haasnoot_expanded.jpg?raw=true "Haasnoot Expanded")
