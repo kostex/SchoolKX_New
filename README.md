@@ -1,14 +1,15 @@
 # Koelooptiemanna Fonts
 # Do whatever you want with the fonts, but don't make money off of them!
 
-Download [Latest Versions](/Generated_Fonts/SchoolKX_2018.zip)
+Download [Latest Versions](/Generated_Fonts/SchoolKX_2018.zip)  
+Old versions are [here](/Generated_Fonts/Old/school.zip)  
 
 Previously distributed via http://home.zonnet.nl/koelooptiemanna/graphics.html
-but those guys are gone..
-Old versions are [here](/Generated_Fonts/Old/school.zip)
+but those guys are gone.  
+You can reach me if needed at koelooptiemanna@gmail.com  
 
 There are now (2018) two variations:
-- Paula (ZMLK Maaskei) Regular and Expanded
+- Paula (ZMLK Maaskei) Regular and Expanded (also a monospaced numbers only font is available for tables/math etc)
 - Haasnoot (Boom Uitgevers Amsterdam) Regular and Expanded
 
 Take a good look at them to see the differences.
