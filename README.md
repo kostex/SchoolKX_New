@@ -14,6 +14,7 @@ There are now (2018) two variations:
 
 Take a good look at them to see the differences.
 ![screenshot_1](/images/overzicht.jpg?raw=true "overview")
+![screenshot_1a](/images/nummers.jpg?raw=true "numbers")
 
 # Please be aware that using these fonts in Microsoft Word and other word processors not supporting kerning the way they should, words will NOT have good spacing between letterpairs!
 wrong kerning:
