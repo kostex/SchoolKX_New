@@ -1,5 +1,6 @@
 # Koelooptiemanna Fonts
-# Do whatever you want with the fonts, but don't make money off of them!
+# Do whatever you want with the fonts, except claiming it yours! **Donations are accepted!**  
+**Commercial users:** Yes you can make use of this font for free too, but it would be nice to hear from you/show your product. Also a referral to this site has to be incorporated.
 
 Download [Latest Versions](/Generated_Fonts/SchoolKX_2018.zip)  
 Old versions are [here](/Generated_Fonts/Old/school.zip)  
