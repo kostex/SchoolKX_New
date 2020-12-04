@@ -2,7 +2,7 @@
 # Do whatever you want with the fonts, except claiming it yours! **Donations are accepted!**  
 **Commercial users:** Yes you can make use of this font for free too, but it would be nice to hear from you/show your product. Also a referral to this site has to be incorporated.
 
-Download [Latest Versions 2020-12-03](/Generated_Fonts/SchoolKX_2020.zip)  
+Download [Latest Versions 2020-12-04](/Generated_Fonts/SchoolKX_2020.zip)  
 Old versions are [here](/Generated_Fonts/Old/school.zip)  
 
 Previously distributed via http://home.zonnet.nl/koelooptiemanna/graphics.html
@@ -48,5 +48,6 @@ Miranda Expanded
 ![screenshot_9](/images/2020_remake.jpg?raw=true "2020 Remake")
 
 2020 Dotted  
-![screenshot_10](/images/dotted.jpg?raw=true "2020 Dotted")  
-![screenshot_11](/images/dotted_close-up.jpg?raw=true "2020 Dotted Close-up")
+![screenshot_10](/images/dotted_all.jpg?raw=true "2020 Dotted All")  
+![screenshot_11](/images/dotted.jpg?raw=true "2020 Dotted")  
+![screenshot_12](/images/dotted_close-up.jpg?raw=true "2020 Dotted Close-up")
