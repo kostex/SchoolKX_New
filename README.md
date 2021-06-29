@@ -7,6 +7,10 @@ Previously distributed via http://home.zonnet.nl/koelooptiemanna/graphics.html
 but those guys are gone.  
 You can reach me if needed at koelooptiemanna@gmail.com  
 
+General Look of my font:
+![General Look](/images/general_look.jpg?raw=true "General Look")
+
+
 There are now (2021) five variations:
 - [Paula ZMLK Maaskei](/Generated_Fonts/SchoolKX_2018_Paula.zip) Regular and Expanded (also a monospaced numbers only font is available for tables/math etc)
 - [Haasnoot (Boom Uitgevers Amsterdam)](/Generated_Fonts/SchoolKX_Haasnoot.zip) Regular and Expanded
